@@ -4,5 +4,9 @@ In the Diffie-Hellman key exchange protocol, alpha (α) is a generator of the mu
 you can access the package by below code :
 
 >>> import DiffehellmanAlphaCalculator as df
+
+
 >>> df.DiffehellmanAlphaCalculator(7)
+
+
 alpha = 3                                                                  #output of  Alpha value
